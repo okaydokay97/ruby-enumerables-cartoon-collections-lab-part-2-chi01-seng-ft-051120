@@ -37,6 +37,7 @@ def find_valid_calls(planeteer_calls)
     planeteer_calls.find(calls)
     if true 
       calls
+    end
    end
    
 end
