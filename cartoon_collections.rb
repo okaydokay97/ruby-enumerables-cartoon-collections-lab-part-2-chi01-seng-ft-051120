@@ -28,10 +28,9 @@ def find_valid_calls(planeteer_calls)
   
    planeteer_calls.any? do |calls|
      valid_calls.find(calls)
-     if true 
-        calls
-    else nil
    end 
+   if true 
+     calls
    end
    
 end
